@@ -50,3 +50,11 @@ public class Pago {
         }
     }
 }
+
+//}
+  //"nombreCliente": "Ana López",
+  //"rut": "21.345.987-K",
+  //"tipoClase": "YOGA", puede ser CALISTENIA,YOGA,MMA,ACROBACIA
+  //"metodoPago": "TRANSFERENCIA",
+  //"fechaHoraClase": "2025-05-20T18:00:00"
+//}
