@@ -1,6 +1,5 @@
 package MicroservicioCompartido.Model;
 
-package com.fitconnect.agendar.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
