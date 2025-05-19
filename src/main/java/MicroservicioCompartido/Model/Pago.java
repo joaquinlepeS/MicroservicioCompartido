@@ -6,7 +6,9 @@ import jakarta.validation.constraints.*;
 import lombok.*;
 import java.time.LocalDateTime;
 
-@Entity
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+@EntityScan
 @Table(name = "pagos")
 @Data
 @NoArgsConstructor
