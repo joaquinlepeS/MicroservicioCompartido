@@ -1,4 +1,4 @@
-package MicroservicioCompartido.Model;
+package MicroservicioCompartido.MicroservicioCompartido.Model;
 
 import java.util.Map;
 

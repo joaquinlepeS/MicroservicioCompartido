@@ -1,4 +1,4 @@
-package MicroservicioCompartido.Controller;
+package MicroservicioCompartido.MicroservicioCompartido.Controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -14,8 +14,8 @@ import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 
-import MicroservicioCompartido.Service.PagoService;
-import MicroservicioCompartido.Model.Pago;
+import MicroservicioCompartido.MicroservicioCompartido.Model.Pago;
+import MicroservicioCompartido.MicroservicioCompartido.Service.PagoService;
 
 
 @RestController

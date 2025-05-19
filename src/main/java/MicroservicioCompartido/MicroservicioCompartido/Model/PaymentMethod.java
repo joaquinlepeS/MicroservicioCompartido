@@ -1,4 +1,4 @@
-package MicroservicioCompartido.Model;
+package MicroservicioCompartido.MicroservicioCompartido.Model;
 
 public enum PaymentMethod {
     EFECTIVO,

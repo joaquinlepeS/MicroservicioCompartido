@@ -1,12 +1,12 @@
-package MicroservicioCompartido.Service;
+package MicroservicioCompartido.MicroservicioCompartido.Service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import MicroservicioCompartido.Model.Pago;
-import MicroservicioCompartido.Repository.PagoRepository;
+import MicroservicioCompartido.MicroservicioCompartido.Model.Pago;
+import MicroservicioCompartido.MicroservicioCompartido.Repository.PagoRepository;
 
 @Service
 public class PagoService {

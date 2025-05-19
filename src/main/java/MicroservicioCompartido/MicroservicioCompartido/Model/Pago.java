@@ -1,4 +1,4 @@
-package MicroservicioCompartido.Model;
+package MicroservicioCompartido.MicroservicioCompartido.Model;
 
 
 import jakarta.persistence.*;
@@ -6,9 +6,8 @@ import jakarta.validation.constraints.*;
 import lombok.*;
 import java.time.LocalDateTime;
 
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 
-@EntityScan
+@Entity
 @Table(name = "pagos")
 @Data
 @NoArgsConstructor
